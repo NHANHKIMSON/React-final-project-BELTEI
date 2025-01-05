@@ -18,6 +18,7 @@ function App() {
           <Route path="/EcommerceAddProduct" element={<EcommerceAddProduct/>}/>
         </Routes>
       </BrowserRouter>
+      <Sidebar/>
       <Switcher/>
     </>
   )
