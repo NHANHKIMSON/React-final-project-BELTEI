@@ -26,14 +26,15 @@ function Sidebar(props) {
             </div>
             <div className="menu-title">Dashboard</div>
           </a>
+          
           <ul>
             <li>
-              <a href="index.html">
+              <a href='/'>
                 <i className="material-icons-outlined">arrow_right</i>Analysis
               </a>
             </li>
             <li>
-              <a href="index2.html">
+              <a href="/Ecomerce">
                 <i className="material-icons-outlined">arrow_right</i>eCommerce
               </a>
             </li>
