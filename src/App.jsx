@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Ecomerce from "./Layout/Ecomerce"
 import Header from "./Layout/Header"
 import Sidebar from "./Layout/Sidebar"
